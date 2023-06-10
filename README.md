@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me through email.yuyuabdinoor@gmail.com
+- 📫 How to reach me through yuyuabdinoor@gmail.com
 
 
 <!---
