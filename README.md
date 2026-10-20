@@ -1,5 +1,5 @@
-- 👋 Hi, I’m yussuf abdinoor
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Yusuf abdinoor
+- 👀 I’m interested in Artificial Intelligence and Software Engineering
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me through yuyuabdinoor@gmail.com
 
